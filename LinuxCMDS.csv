@@ -1,0 +1,10 @@
+﻿Command,Meaning,Definition,Coolness
+cd,Change Directory,"""cd <directory name>"" will move you to the specified directory if in the current path",11
+mkdir,Make Directory,"""mkdir <new name>"" will make a new empty directory with name, and place it as a subdirectory of current location ",4
+ls,List,"""ls"" prints current directory contents in terminal ""ls -a"" can also be useful at times",8
+rm,Remove,"""rm <target directory>"" deletes the specified directory",7
+rmdir,Remove Directory,"""rmdir <directory> "" removes specified EMPTY directory (non empty use ""rm -rf <directory Name>"")",2
+mv ,Move ,"""mv <target> <destination>"" moves a specified FILE to the given location",3
+touch,touch,"""touch <filename> makes a file with the given name. The file is empty. Just like my soul",5
+cp ,copy,"""cp <source> <destination>"" copies a given file to the destination",2
+man,Manual,"""man <pretty much whatever if you dont know what a command does>"" displays the manual page for a given function if it exists",6
